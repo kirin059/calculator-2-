@@ -1,4 +1,4 @@
-# calculator 만들기(1) 
+# calculator 만들기(2) 
 ## javascript
 ---
 
